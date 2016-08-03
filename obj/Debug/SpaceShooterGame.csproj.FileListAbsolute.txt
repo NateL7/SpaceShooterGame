@@ -1,0 +1,9 @@
+C:\Users\Nate\Desktop\SpaceShooterGame\bin\Debug\SpaceShooterGame.exe.config
+C:\Users\Nate\Desktop\SpaceShooterGame\bin\Debug\SpaceShooterGame.exe
+C:\Users\Nate\Desktop\SpaceShooterGame\bin\Debug\SpaceShooterGame.pdb
+C:\Users\Nate\Desktop\SpaceShooterGame\obj\Debug\SpaceShooterGame.csprojResolveAssemblyReference.cache
+C:\Users\Nate\Desktop\SpaceShooterGame\obj\Debug\SpaceShooterGame.Form1.resources
+C:\Users\Nate\Desktop\SpaceShooterGame\obj\Debug\SpaceShooterGame.Properties.Resources.resources
+C:\Users\Nate\Desktop\SpaceShooterGame\obj\Debug\SpaceShooterGame.csproj.GenerateResource.Cache
+C:\Users\Nate\Desktop\SpaceShooterGame\obj\Debug\SpaceShooterGame.exe
+C:\Users\Nate\Desktop\SpaceShooterGame\obj\Debug\SpaceShooterGame.pdb
